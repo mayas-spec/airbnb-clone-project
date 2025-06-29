@@ -307,25 +307,14 @@ npm start
 ## Project Status
 
 This project is currently in the initialization phase. The development timeline includes:
-- ✅ Repository setup and documentation
-- 🔄 UI/UX design implementation
-- ⏳ Frontend component development  
-- ⏳ Backend API development
-- ⏳ Database integration
-- ⏳ Testing and deployment
+- Repository setup and documentation
+- UI/UX design implementation
+- Frontend component development  
+- Backend API development
+- Database integration
+- Testing and deployment
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## License
-
-This project is created for educational purposes as part of a web development learning program.
-
----
 
 **StayEase** - Making accommodation booking effortless and enjoyable.
